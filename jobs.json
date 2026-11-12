@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer (React)",
+    "company": "Tech Nova Indonesia",
+    "location": "Jakarta",
+    "type": "Full-time",
+    "salary": 15000000,
+    "postedDate": "2026-02-04",
+    "skills": ["React", "Tailwind", "JavaScript"]
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Designer",
+    "company": "Creative Studio",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": 12000000,
+    "postedDate": "2026-02-01",
+    "skills": ["Figma", "Adobe XD", "Prototyping"]
+  },
+  {
+    "id": 3,
+    "title": "Backend Engineer (Python)",
+    "company": "Data Core",
+    "location": "Bandung",
+    "type": "Full-time",
+    "salary": 18000000,
+    "postedDate": "2026-02-03",
+    "skills": ["Python", "Django", "PostgreSQL"]
+  },
+  {
+    "id": 4,
+    "title": "Mobile Developer Intern",
+    "company": "Startup Grow",
+    "location": "Jakarta",
+    "type": "Internship",
+    "salary": 4000000,
+    "postedDate": "2026-01-25",
+    "skills": ["Flutter", "Dart"]
+  },
+  {
+    "id": 5,
+    "title": "Quality Assurance (QA)",
+    "company": "Fintech Solution",
+    "location": "Surabaya",
+    "type": "Full-time",
+    "salary": 9500000,
+    "postedDate": "2026-02-02",
+    "skills": ["Selenium", "Jest", "Automation"]
+  },
+  {
+    "id": 6,
+    "title": "Fullstack Developer",
+    "company": "Global Tech",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": 22000000,
+    "postedDate": "2026-02-05",
+    "skills": ["Node.js", "React", "MongoDB"]
+  },
+  {
+    "id": 7,
+    "title": "Social Media Manager",
+    "company": "Agency 101",
+    "location": "Jakarta",
+    "type": "Full-time",
+    "salary": 8000000,
+    "postedDate": "2026-01-20",
+    "skills": ["Copywriting", "SEO", "Analytics"]
+  },
+  {
+    "id": 8,
+    "title": "DevOps Engineer",
+    "company": "Cloud System",
+    "location": "Bandung",
+    "type": "Full-time",
+    "salary": 20000000,
+    "postedDate": "2026-01-30",
+    "skills": ["Docker", "Kubernetes", "AWS"]
+  },
+  {
+    "id": 9,
+    "title": "Python Tutor",
+    "company": "EduTech ID",
+    "location": "Remote",
+    "type": "Internship",
+    "salary": 3500000,
+    "postedDate": "2026-02-04",
+    "skills": ["Python", "Teaching"]
+  },
+  {
+    "id": 10,
+    "title": "System Administrator",
+    "company": "Governo IT",
+    "location": "Surabaya",
+    "type": "Full-time",
+    "salary": 11000000,
+    "postedDate": "2026-01-15",
+    "skills": ["Linux", "Networking", "Security"]
+  },
+  {
+    "id": 11,
+    "title": "Data Analyst",
+    "company": "Insight Nusantara",
+    "location": "Jakarta",
+    "type": "Full-time",
+    "salary": 13500000,
+    "postedDate": "2026-02-06",
+    "skills": ["Python", "SQL", "Tableau"]
+  },
+  {
+    "id": 12,
+    "title": "Backend Developer Intern",
+    "company": "Kode Karya",
+    "location": "Bandung",
+    "type": "Internship",
+    "salary": 3800000,
+    "postedDate": "2026-02-07",
+    "skills": ["Node.js", "Express", "PostgreSQL"]
+  },
+  {
+    "id": 13,
+    "title": "AI & LLM Engineer",
+    "company": "NextGen AI Labs",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": 25000000,
+    "postedDate": "2026-02-08",
+    "skills": ["Python", "PyTorch", "LangChain"]
+  },
+  {
+    "id": 14,
+    "title": "Digital Marketing Specialist",
+    "company": "Island Creative Hub",
+    "location": "Bali",
+    "type": "Full-time",
+    "salary": 10500000,
+    "postedDate": "2026-02-01",
+    "skills": ["SEO", "Google Ads", "Copywriting"]
+  },
+  {
+    "id": 15,
+    "title": "iOS Developer",
+    "company": "FinPay Tech",
+    "location": "Tangerang",
+    "type": "Full-time",
+    "salary": 17000000,
+    "postedDate": "2026-02-03",
+    "skills": ["Swift", "Xcode", "REST API"]
+  },
+  {
+    "id": 16,
+    "title": "UI/UX Design Intern",
+    "company": "Pixel Craft Studio",
+    "location": "Yogyakarta",
+    "type": "Internship",
+    "salary": 3200000,
+    "postedDate": "2026-01-28",
+    "skills": ["Figma", "Prototyping", "Wireframing"]
+  },
+  {
+    "id": 17,
+    "title": "Cybersecurity Analyst",
+    "company": "SecureNet ID",
+    "location": "Jakarta",
+    "type": "Full-time",
+    "salary": 19500000,
+    "postedDate": "2026-02-05",
+    "skills": ["Security", "Linux", "Networking"]
+  },
+  {
+    "id": 18,
+    "title": "Product Manager",
+    "company": "Commerce Plus",
+    "location": "Surabaya",
+    "type": "Full-time",
+    "salary": 16500000,
+    "postedDate": "2026-02-06",
+    "skills": ["Agile", "Scrum", "Analytics"]
+  },
+  {
+    "id": 19,
+    "title": "Frontend Developer (Vue)",
+    "company": "Jogja Digital Inovasi",
+    "location": "Yogyakarta",
+    "type": "Full-time",
+    "salary": 11500000,
+    "postedDate": "2026-01-29",
+    "skills": ["Vue.js", "JavaScript", "Tailwind"]
+  },
+  {
+    "id": 20,
+    "title": "QA Automation Intern",
+    "company": "Cloud Nine System",
+    "location": "Tangerang",
+    "type": "Internship",
+    "salary": 4200000,
+    "postedDate": "2026-02-02",
+    "skills": ["Selenium", "Jest", "JavaScript"]
+  }
+]

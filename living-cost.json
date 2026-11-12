@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "location": "Jakarta Selatan",
+    "jobRegionMatch": "Jakarta",
+    "regionalMinimumWage": 5396761,
+    "monthlyExpenses": {
+      "food": 2500000,
+      "transport": 800000,
+      "utilitiesAndInternet": 900000,
+      "entertainment": 1300000
+    },
+    "lifestyleTier": "High"
+  },
+  {
+    "id": 2,
+    "location": "Jakarta Pusat",
+    "jobRegionMatch": "Jakarta",
+    "regionalMinimumWage": 5396761,
+    "monthlyExpenses": {
+      "food": 2400000,
+      "transport": 700000,
+      "utilitiesAndInternet": 900000,
+      "entertainment": 1200000
+    },
+    "lifestyleTier": "High"
+  },
+  {
+    "id": 3,
+    "location": "Jakarta Utara",
+    "jobRegionMatch": "Jakarta",
+    "regionalMinimumWage": 5396761,
+    "monthlyExpenses": {
+      "food": 2200000,
+      "transport": 800000,
+      "utilitiesAndInternet": 850000,
+      "entertainment": 1150000
+    },
+    "lifestyleTier": "High"
+  },
+  {
+    "id": 4,
+    "location": "Jakarta Barat",
+    "jobRegionMatch": "Jakarta",
+    "regionalMinimumWage": 5396761,
+    "monthlyExpenses": {
+      "food": 2000000,
+      "transport": 700000,
+      "utilitiesAndInternet": 750000,
+      "entertainment": 850000
+    },
+    "lifestyleTier": "Medium"
+  },
+  {
+    "id": 5,
+    "location": "Tangerang",
+    "jobRegionMatch": "Tangerang",
+    "regionalMinimumWage": 5069708,
+    "monthlyExpenses": {
+      "food": 1800000,
+      "transport": 750000,
+      "utilitiesAndInternet": 700000,
+      "entertainment": 750000
+    },
+    "lifestyleTier": "Medium"
+  },
+  {
+    "id": 6,
+    "location": "Bogor",
+    "jobRegionMatch": "Jakarta",
+    "regionalMinimumWage": 4877211,
+    "monthlyExpenses": {
+      "food": 1500000,
+      "transport": 650000,
+      "utilitiesAndInternet": 600000,
+      "entertainment": 550000
+    },
+    "lifestyleTier": "Low"
+  },
+  {
+    "id": 7,
+    "location": "Depok",
+    "jobRegionMatch": "Jakarta",
+    "regionalMinimumWage": 5195720,
+    "monthlyExpenses": {
+      "food": 1500000,
+      "transport": 600000,
+      "utilitiesAndInternet": 550000,
+      "entertainment": 550000
+    },
+    "lifestyleTier": "Low"
+  },
+  {
+    "id": 8,
+    "location": "Bandung",
+    "jobRegionMatch": "Bandung",
+    "regionalMinimumWage": 4482914,
+    "monthlyExpenses": {
+      "food": 1600000,
+      "transport": 550000,
+      "utilitiesAndInternet": 600000,
+      "entertainment": 750000
+    },
+    "lifestyleTier": "Medium"
+  },
+  {
+    "id": 9,
+    "location": "Surabaya",
+    "jobRegionMatch": "Surabaya",
+    "regionalMinimumWage": 4961753,
+    "monthlyExpenses": {
+      "food": 1700000,
+      "transport": 600000,
+      "utilitiesAndInternet": 650000,
+      "entertainment": 750000
+    },
+    "lifestyleTier": "Medium"
+  },
+  {
+    "id": 10,
+    "location": "Bali",
+    "jobRegionMatch": "Bali",
+    "regionalMinimumWage": 3122620,
+    "monthlyExpenses": {
+      "food": 2100000,
+      "transport": 700000,
+      "utilitiesAndInternet": 800000,
+      "entertainment": 1200000
+    },
+    "lifestyleTier": "High"
+  },
+  {
+    "id": 11,
+    "location": "Yogyakarta",
+    "jobRegionMatch": "Yogyakarta",
+    "regionalMinimumWage": 2655042,
+    "monthlyExpenses": {
+      "food": 1200000,
+      "transport": 400000,
+      "utilitiesAndInternet": 500000,
+      "entertainment": 500000
+    },
+    "lifestyleTier": "Low"
+  }
+]
